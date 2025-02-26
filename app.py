@@ -1,7 +1,7 @@
-# Importa a classe Flask do pacote flask
+# Importa a classe (Veremos isso mais a frente) Flask do pacote flask
 from flask import Flask
 
-# Cria uma instância do Flask, que será a base do nosso aplicativo web
+# Cria uma instância(Veremos isso mais a frente) do Flask, que será a base do nosso aplicativo web
 app = Flask(__name__)
 
 # Define uma rota para o endpoint "/devedora"
